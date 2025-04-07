@@ -1,0 +1,85 @@
+{
+    "personal": {
+      "name": "Yusuf Atakan AKYÜZ",
+      "bio": "I studied at a science high school and am currently pursuing Computer Science Engineering at the University of Pécs Faculty of Engineering and Information Technologies. I am passionate about programming, networking, and electronics. I have experience creating game scripts using Lua for diverse gameservers as well as developing websites for a variety of clients. I excel in teamwork. In my spare time, I enjoy reading books, watching TV series, visiting historic places, and learning different languages.",
+      "email": "atakanakyuzilayda@gmail.com",
+      "location": "Pécs, Hungary",
+      "profileImage": "/images/profile.jpg"
+    },
+    "education": [
+      {
+        "degree": "High School Diploma",
+        "institution": "Bandırma Anatolian High School",
+        "year": "2019 - 2023"
+      },
+      {
+        "degree": "Preparatory Year",
+        "institution": "University of Pécs",
+        "year": "2023 - 2024"
+      },
+      {
+        "degree": "Bachelor's in Computer Science Engineering",
+        "institution": "UPFEIT, University of Pécs Faculty of Engineering and Information Technologies",
+        "year": "Current"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Web Shop Project for Art Shops",
+        "description": "Developed a comprehensive web shop platform that includes client-side and server-side data management and networking.",
+        "technologies": [
+          "Express.js",
+          "Node",
+          "EJS",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "React",
+          "Postgres"
+        ],
+        "link": "https://github.com/YusufAtakanA/BACKENDAJCurtis"
+      },
+      {
+        "title": "Garrysmod and FiveM Game Mods",
+        "description": "Detailed gamemode designs and developments for Garrysmod and FiveM.",
+        "technologies": [
+          "Lua",
+          "Game Modding"
+        ],
+        "link": ""
+      },
+      {
+        "title": "UI Designs",
+        "description": "A collection of various UI designs demonstrating my skills in visual design and user interface development.",
+        "technologies": [
+          "UX/UI Design"
+        ],
+        "link": ""
+      }
+    ],
+    "skills": {
+      "programmingLanguages": [
+        "C",
+        "JavaScript",
+        "Lua",
+        "HTML",
+        "CSS"
+      ],
+      "frameworks": [
+        "Express.js",
+        "React",
+        "Node.js"
+      ],
+      "tools": [
+        "Git",
+        "Docker",
+        "AWS"
+      ]
+    },
+    "contact": {
+      "email": "atakanakyuzilayda@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/yusuf-atakan-akyuz-a34750352/",
+      "github": "https://github.com/YusufAtakanA"
+    }
+  }
+  
