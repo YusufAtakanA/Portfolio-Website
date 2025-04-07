@@ -68,7 +68,8 @@
       "frameworks": [
         "Express.js",
         "React",
-        "Node.js"
+        "Node.js",
+        "Bootstrap"
       ],
       "tools": [
         "Git",
